@@ -1,0 +1,38 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9.5//EN
+N:Doe;Jane;;;
+FN:Jane Doe
+EMAIL;type=INTERNET;type=HOME;type=pref:jane.doe@notmail.com
+TEL;type=CELL;type=VOICE;type=pref:0123 456789
+TEL;type=WORK;type=VOICE:020 1234 5678
+ADR;type=HOME;type=pref:;;1 Not Street;London;;A1 4BZ;
+item1.URL;type=pref:jane.doe@me.net
+item1.X-ABLabel:_$!<HomePage>!$_
+UID:8400c795-9dbc-487d-9d2a-de3311f9d075
+X-ABUID:8400C795-9DBC-487D-9D2A-DE3311F9D075:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9.5//EN
+N:Doe;Jim Barnaby;;;
+FN:Jim Barnaby Doe
+EMAIL;type=INTERNET;type=WORK;type=pref:jim.doe@not.com
+TEL;type=CELL;type=VOICE;type=pref:02468 123456
+TEL;type=WORK;type=VOICE:020 2345 6789
+UID:7476fd69-9bf1-416e-b093-05ddc23c385f
+X-ABUID:7476FD69-9BF1-416E-B093-05DDC23C385F:ABPerson
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9.5//EN
+N:Doe;John;;;
+FN:John Doe
+ORG:Queen Mary;
+EMAIL;type=INTERNET;type=HOME;type=pref:JohnDoe@nogmail.com
+TEL;type=CELL;type=VOICE;type=pref:0751 234567
+TEL;type=HOME;type=VOICE:020 7123 4567
+ADR;type=HOME;type=pref:;;42 Nowhere St;London;;E1 0XX;
+UID:8bb3d68ec846f1
+X-ABUID:608AE44E-BF05-4713-A748-AAE3CAB64858:ABPerson
+END:VCARD
